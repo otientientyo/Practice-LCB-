@@ -19,7 +19,7 @@ float devide(int a, int b){
 int main(){
     printf("Calculation:");
 	printf("\n============");
-	printf("\n1. Input Number");
+	printf("\n1. Input 2 Interger Number");
 	printf("\n2. Calculate Sum");
 	printf("\n3. Calculate Substraction");
 	printf("\n4. Calculate Multiplication");
@@ -49,7 +49,7 @@ int main(){
        		printf("\n%d / %d = %f", a, b, devide(a, b));
        		break;
        		case 6:
-			   break;
+			break;
 			   
 }
 }
